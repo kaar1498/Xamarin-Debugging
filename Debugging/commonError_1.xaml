@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Debugging.commonError_1">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Select Color" />
+            <Picker x:Name="thePicker" Title="Select a color"  />
+            <Label Text="Write point" />
+            <Entry x:Name="thepoint" />
+            
+            <Label Text="Point1"/>
+            <Label x:Name="lblPoint1"/>
+            <Label Text="Point2"/>
+            <Label x:Name="lblPoint2"/>
+            
+            <Label Text="Pen1"/>
+            <Label x:Name="lblPen1"/>
+            <Label Text="Pen2" />
+            <Label x:Name="lblPen2"/>
+            
+            <Button Text="Submit" Clicked="Handle_Clicked" />
+            
+                
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

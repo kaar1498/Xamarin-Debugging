@@ -1,0 +1,16 @@
+F:\AllMyStuff\Github\Xamarin Debugging\Debugging\bin\Debug\netstandard2.0\Debugging.deps.json
+F:\AllMyStuff\Github\Xamarin Debugging\Debugging\bin\Debug\netstandard2.0\Debugging.dll
+F:\AllMyStuff\Github\Xamarin Debugging\Debugging\bin\Debug\netstandard2.0\Debugging.pdb
+F:\AllMyStuff\Github\Xamarin Debugging\Debugging\obj\Debug\netstandard2.0\Debugging.csprojAssemblyReference.cache
+F:\AllMyStuff\Github\Xamarin Debugging\Debugging\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\AllMyStuff\Github\Xamarin Debugging\Debugging\obj\Debug\netstandard2.0\commonError_1.xaml.g.cs
+F:\AllMyStuff\Github\Xamarin Debugging\Debugging\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\AllMyStuff\Github\Xamarin Debugging\Debugging\obj\Debug\netstandard2.0\Mod.xaml.g.cs
+F:\AllMyStuff\Github\Xamarin Debugging\Debugging\obj\Debug\netstandard2.0\MyPage.xaml.g.cs
+F:\AllMyStuff\Github\Xamarin Debugging\Debugging\obj\Debug\netstandard2.0\Debugging.AssemblyInfoInputs.cache
+F:\AllMyStuff\Github\Xamarin Debugging\Debugging\obj\Debug\netstandard2.0\Debugging.AssemblyInfo.cs
+F:\AllMyStuff\Github\Xamarin Debugging\Debugging\obj\Debug\netstandard2.0\Debugging.csproj.CoreCompileInputs.cache
+F:\AllMyStuff\Github\Xamarin Debugging\Debugging\obj\Debug\netstandard2.0\XamlC.stamp
+F:\AllMyStuff\Github\Xamarin Debugging\Debugging\obj\Debug\netstandard2.0\Debugging.dll
+F:\AllMyStuff\Github\Xamarin Debugging\Debugging\obj\Debug\netstandard2.0\Debugging.pdb
+F:\AllMyStuff\Github\Xamarin Debugging\Debugging\obj\Debug\netstandard2.0\CalculateAge.xaml.g.cs

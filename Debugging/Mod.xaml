@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Debugging.Mod">
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry x:Name="entNumber" Margin="20" />
+            <Button Text="Handle Number" Clicked="HandleNumber" />
+            <Button Text="Run Array of numbers" Clicked="runArray"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

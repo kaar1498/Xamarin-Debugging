@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{F1C1C19B-8EA4-4AD4-A8B0-B28175213273}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../.nuget/packages/xamarin.forms/4.5.0.396/build/Xamarin.Forms.targets">
+    <Files>
+      <File FileName="Debugging/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="Debugging/MainPage.xaml.cs" Line="21" Column="1" />
+      <File FileName="Debugging/CalcualteAge.xaml.cs" Line="17" Column="1" />
+      <File FileName="Debugging/commonError_1.xaml.cs" Line="45" Column="10" />
+      <File FileName="Debugging/ColorViewModel.cs" />
+      <File FileName="Debugging/MyPage.xaml" />
+      <File FileName="Debugging/MyPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Debugging/Mod.xaml.cs" Line="1" Column="1" />
+      <File FileName="../../.nuget/packages/xamarin.forms/4.5.0.396/build/Xamarin.Forms.targets" Line="183" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Debugging" expanded="True">
+            <Node name="Debugging" expanded="True">
+              <Node name="CalcualteAge.xaml" expanded="True" />
+              <Node name="commonError_1.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="Mod.xaml" expanded="True" />
+              <Node name="MyPage.xaml" expanded="True" />
+            </Node>
+            <Node name="Debugging.Android" expanded="True" selected="True" />
+            <Node name="Debugging.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Debugging.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Debugging.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.623659F1-DBB0-4743-A8E9-BFFE4CC7B52A" />
+</Properties>

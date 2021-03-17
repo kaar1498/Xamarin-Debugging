@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0IaNthNXWUlf+HpuHnOl2+GtwD5sGKSv6u6fsurPTfjufjaTVt9WWrUE83stKKE2Oc2OXUIsi3CadBDNYECwTA==",
+  "success": true,
+  "projectFilePath": "F:\\AllMyStuff\\Github\\Xamarin Debugging\\Debugging.iOS\\Debugging.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaare\\.nuget\\packages\\xamarin.forms\\4.5.0.396\\xamarin.forms.4.5.0.396.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:Debugging" x:Class="Debugging.MainPage">
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Welcome to Xamarin.Forms!" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+        <Button Text="CalculateAge" Clicked="NextPage" />
+        <Button Text="Mod" Clicked="ModPage" />
+        <Button Text="CommonError_1" Clicked="CommonError_1Page" />
+    </StackLayout>
+</ContentPage>
